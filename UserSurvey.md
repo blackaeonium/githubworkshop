@@ -50,6 +50,6 @@ SS - Chocolate
 
 MW - Coconut Pandan
 
-MB -
+MB - Rum & Raisin
 
 SG - Rum & Raisin

@@ -16,7 +16,7 @@ IB -
 
 EMA -
 
-AR -
+AR - Pistachio
 
 NP - Matcha
 

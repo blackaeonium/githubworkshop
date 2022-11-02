@@ -6,9 +6,9 @@ JD - Strawberry
 
 LC - Orange & Fennel
 
-SDM -
+SDM - 
 
-DH -
+DH - Hokey Pokey
 
 WF -
 
@@ -16,15 +16,15 @@ IB -
 
 EMA -
 
-AR -
+AR - Pistachio
 
-NP -
+NP - Matcha
 
-MM -
+MM -boysenberry
 
 VS -
 
-ST -
+ST - Chubby Hubby
 
 CR -
 
@@ -34,20 +34,22 @@ TB -
 
 AW - 
 
-DA -
+DA - Caramel
 
 TL -
 
 AW -
 
-RH -
+RH -Mango
 
 MD -
 
 SJ -
 
-SS - 
+SS - Chocolate
 
-MW -
+MW - Coconut Pandan
 
-MB -
+MB - Rum & Raisin
+
+SG - Rum & Raisin
